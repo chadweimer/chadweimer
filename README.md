@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on home automation
-- 🌱 I’m currently learning [Helm](https://helm.sh)
+- 🔭 I’m currently working on home networking
+- 🌱 I’m currently learning [Quadlet](https://docs.podman.io/en/latest/markdown/podman-systemd.unit.5.html)
 - 🌎 You can also find me on [Codeberg](https://codeberg.org/cwmr)
 
 <!--
